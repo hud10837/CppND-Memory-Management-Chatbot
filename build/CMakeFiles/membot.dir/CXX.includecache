@@ -49,6 +49,8 @@ chatgui.h
 /Users/hud10837/cppCourse/chatbot/CppND-Memory-Management-Chatbot/src/chatgui.h
 wx/wx.h
 -
+memory
+-
 
 /Users/hud10837/cppCourse/chatbot/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
 fstream
@@ -106,6 +108,8 @@ graphnode.h
 vector
 -
 string
+-
+memory
 -
 chatbot.h
 /Users/hud10837/cppCourse/chatbot/CppND-Memory-Management-Chatbot/src/chatbot.h
